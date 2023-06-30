@@ -9,5 +9,6 @@ public class MemberWriteService {
             val member = Member.of(memberRegisterCommand)
             memberRepository.save(member)
          */
+
     }
 }
